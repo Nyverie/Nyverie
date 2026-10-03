@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://github.com/Nyverie">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=EC4899&center=true&vCenter=true&width=700&lines=Hiii%2C+I'm+Faty+%E2%99%A1;Frontend+&+Backend;Front+back+%E2%9C%BF" alt="Texto animado">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=EC4899&center=true&vCenter=true&width=700&lines=Hiii!+I'm+Faty+%3C3;Front+%26+back+%28sometimes%29" alt="Texto animado">
 </a>
 
 <br>

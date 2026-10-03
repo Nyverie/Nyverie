@@ -49,8 +49,8 @@
     </td>
     <td valign="top" align="center">
       <b>♡ Herramientas</b><br><br>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma" alt="Herramientas"><br>
-      <sub>Git · GitHub · Docker · Linux · VS Code · Figma</sub>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma" alt="Herramientas"><br>
+      <sub>Git · GitHub · Docker · VS Code · Figma</sub>
     </td>
   </tr>
 </table>

@@ -65,6 +65,10 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyverie&layout=compact&hide_border=true&bg_color=FFF0F6&title_color=DB2777&text_color=831843" alt="Lenguajes más usados">
 
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Nyverie&hide_border=true&background=FFF0F6&ring=F472B6&fire=EC4899&currStreakNum=9D174D&sideNums=9D174D&currStreakLabel=DB2777&sideLabels=DB2777&dates=BE185D" alt="Racha de contribuciones">
+
 </div>
 
 ---

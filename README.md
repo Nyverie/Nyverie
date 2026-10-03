@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=flat&color=f472b6&label=visitas" alt="visitas al perfil">
+<img src="https://komarev.com/ghpvc/?username=Nyverie&style=flat&color=f472b6&label=visitas" alt="visitas al perfil">
 
 </div>
 
@@ -63,12 +63,12 @@
 
 ## ✿ mis números
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=FFF0F6&title_color=DB2777&icon_color=F472B6&text_color=831843" alt="Estadísticas de GitHub">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&bg_color=FFF0F6&title_color=DB2777&text_color=831843" alt="Lenguajes más usados">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nyverie&show_icons=true&hide_border=true&bg_color=FFF0F6&title_color=DB2777&icon_color=F472B6&text_color=831843" alt="Estadísticas de GitHub">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyverie&layout=compact&hide_border=true&bg_color=FFF0F6&title_color=DB2777&text_color=831843" alt="Lenguajes más usados">
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&hide_border=true&background=FFF0F6&ring=F472B6&fire=EC4899&currStreakNum=9D174D&sideNums=9D174D&currStreakLabel=DB2777&sideLabels=DB2777&dates=BE185D" alt="Racha de contribuciones">
+<img src="https://streak-stats.demolab.com?user=Nyverie&hide_border=true&background=FFF0F6&ring=F472B6&fire=EC4899&currStreakNum=9D174D&sideNums=9D174D&currStreakLabel=DB2777&sideLabels=DB2777&dates=BE185D" alt="Racha de contribuciones">
 
 </div>
 
@@ -90,6 +90,6 @@
 
 <br><br>
 
-<sub>Hecho con 💖 y mucho sueño · @TU_USUARIO</sub>
+<sub>Hecho con 💖 y mucho sueño · @Nyverie</sub>
 
 </div>

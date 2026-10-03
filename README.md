@@ -84,7 +84,7 @@
   <img src="https://img.shields.io/badge/Instagram-f472b6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 <a href="mailto:fatimachrod@gmail.com">
-  <img src="https://img.shields.io/badge/Correo-fbcfe8?style=for-the-badge&logo=gmail&logoColor=831843" alt="Email">
+  <img src="https://img.shields.io/badge/Email-fbcfe8?style=for-the-badge&logo=gmail&logoColor=831843" alt="Email">
 </a>
 
 <br><br>

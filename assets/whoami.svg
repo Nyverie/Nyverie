@@ -7,18 +7,18 @@
   <circle cx="34" cy="29" r="6" fill="#f472b6"/>
   <circle cx="56" cy="29" r="6" fill="#fda4af"/>
   <circle cx="78" cy="29" r="6" fill="#fde68a"/>
-  <text x="108" y="34" fill="#9d174d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">Nyverie  ·  perfil.sh</text>
+  <text x="108" y="34" fill="#9d174d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">Nyverie  ·  profile.sh</text>
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19">
     <text x="40" y="100" fill="#db2777" font-weight="700">$ whoami</text>
-    <text x="70" y="130" fill="#831843">Nyverie ✿ Desarrolladora Frontend</text>
+    <text x="70" y="130" fill="#831843">Nyverie ✿ Frontend</text>
 
-    <text x="40" y="180" fill="#db2777" font-weight="700">$ cat sobre-mi.txt</text>
+    <text x="40" y="180" fill="#db2777" font-weight="700">$ cat about-me.txt</text>
     <text x="70" y="210" fill="#831843">Turning code into cute little experiences.</text>
-    <text x="70" y="238" fill="#831843">Me gusta construir cosas útiles (y que se vean lindas).</text>
+    <text x="70" y="238" fill="#831843">Arequipa, Perú.</text>
 
-    <text x="40" y="288" fill="#db2777" font-weight="700">$ echo $AHORA_APRENDIENDO</text>
-    <text x="70" y="318" fill="#831843">Lo que estás aprendiendo ahora ♡</text>
+    <text x="40" y="288" fill="#db2777" font-weight="700">$ echo $CURRENTLY_LEARNING</text>
+    <text x="70" y="318" fill="#831843">C# · Svelte · Unity ♡</text>
 
     <text x="40" y="345" fill="#db2777" font-weight="700">$</text>
     <rect x="60" y="329" width="11" height="19" fill="#f472b6">

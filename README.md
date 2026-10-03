@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="https://github.com/TU_USUARIO">
+<a href="https://github.com/Nyverie">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=EC4899&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Tu+Nombre+%E2%99%A1;Tu+rol+o+lo+que+estudias;Caf%C3%A9+%26+c%C3%B3digo+%E2%9C%BF" alt="Texto animado">
 </a>
 
@@ -78,18 +78,18 @@
 
 ## ✿ hablemos
 
-<a href="https://www.linkedin.com/in/TU_LINKEDIN">
+<a href="https://www.linkedin.com/in/fati-chrod">
   <img src="https://img.shields.io/badge/LinkedIn-f9a8d4?style=for-the-badge&logo=linkedin&logoColor=831843" alt="LinkedIn">
 </a>
-<a href="https://www.instagram.com/TU_INSTAGRAM">
+<a href="https://www.instagram.com/fatux_cr">
   <img src="https://img.shields.io/badge/Instagram-f472b6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
-<a href="mailto:tu-correo@ejemplo.com">
+<a href="mailto:fatimachrod@gmail.com">
   <img src="https://img.shields.io/badge/Correo-fbcfe8?style=for-the-badge&logo=gmail&logoColor=831843" alt="Correo">
 </a>
 
 <br><br>
 
-<sub>Hecho con 💖 y mucho café · @TU_USUARIO</sub>
+<sub>Hecho con 💖 y mucho sueño · @TU_USUARIO</sub>
 
 </div>

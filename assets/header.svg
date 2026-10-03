@@ -27,7 +27,7 @@
     <circle cx="60" cy="110" r="2.5"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.6s" repeatCount="indefinite"/></circle>
   </g>
 
-  <text x="480" y="125" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="800" fill="#9d174d">Faty</text>
-  <text x="480" y="170" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" fill="#be185d">&lt;Desarrolladora Frontend /&gt;</text>
-  <text x="480" y="208" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#be185d" opacity="0.85">código · sueñito · cosas bonitas</text>
+  <text x="480" y="125" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="800" fill="#9d174d">Faty ૮꒰ ˶• ༝ •˶꒱ა ♡</text>
+  <text x="480" y="170" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" fill="#be185d">&lt;Frontend Developer /&gt;</text>
+  <text x="480" y="208" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#be185d" opacity="0.85">code · naps · pretty things</text>
 </svg>
